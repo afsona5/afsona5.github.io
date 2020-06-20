@@ -73,15 +73,15 @@ nav {
         cursor: pointer;
     }
     .bar {
-        width: 2.2rem;
+        width: 2rem;
         height: .2rem;
         background: rgba(22, 22, 22, 0.7);
         margin: .4rem;
         border-radius: 5rem;
         transition: all 0.5s ease-in-out;
     }
-    .bar2 {
-        width: 1.5rem;
+    .bar1 {
+        width: 1rem;
         margin-left: auto;
     }
     .bar3 {
